@@ -1,0 +1,18 @@
+.form-login{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.form-label{
+    float: left;
+}
+.form-control{
+    background-color:#F3F3F3;
+}
+.btn{
+    
+}
+.link{
+    
+    color: #0091FF !important;
+}
